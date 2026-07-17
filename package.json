@@ -1,14 +1,10 @@
 {
   "name": "telegram-barker-bot",
   "version": "1.0.0",
-  "description": "A fun barking bot for Telegram",
+  "description": "Custom text repeating Telegram bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "author": {
-    "name": "BAZZ",
-    "url": "https://github.com/bazz963"
   },
   "dependencies": {
     "telegraf": "^4.16.3"
