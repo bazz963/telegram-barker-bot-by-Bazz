@@ -7,15 +7,12 @@
     "start": "node index.js"
   },
   "author": {
-    "name": "@BazzHacker963",
-    "url": "https://github.com/yourusername"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yourusername/telegram-barker-bot.git"
+    "name": "BAZZ",
+    "url": "https://github.com/bazz963"
   },
   "dependencies": {
     "telegraf": "^4.16.3"
   }
 }
+
 
