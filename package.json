@@ -1,1 +1,21 @@
+{
+  "name": "telegram-barker-bot",
+  "version": "1.0.0",
+  "description": "A fun barking bot for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "@BazzHacker963",
+    "url": "https://github.com/yourusername"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/telegram-barker-bot.git"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
 
